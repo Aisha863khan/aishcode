@@ -1,0 +1,2 @@
+# aishcode
+first repo 
