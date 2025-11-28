@@ -1,3 +1,9 @@
 This is the first version of index.txt
-I'm feeling super hungryy byt have nothing to eat!
-Line from MAIN branch
+<<<<<<< HEAD
+I'm feeling super hungryy but have nothing to eat!
+Line from MAIN branch!!!!
+=======
+I'm feeling super hungry right now and i have nothing to eat.
+Line from FEATURE branch
+Final merged line after conflict
+>>>>>>> feature-branch
